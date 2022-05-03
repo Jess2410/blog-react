@@ -16,11 +16,18 @@ nav {
     position: relative;
     font-size: 22px;
 }
-.items {
+.items  {
     margin-right: 0 15px;
     text-transform: uppercase;
     color: #f1f1f1;
     cursor: pointer;
+}
+a {
+    margin: 15px;
+    text-transform: uppercase;
+    color: #f1f1f1;
+    cursor: pointer;
+    text-decoration: none;
 }
 .btn {
     display: none;
